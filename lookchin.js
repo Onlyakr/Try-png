@@ -1,0 +1,1 @@
+let marlysuaymak = "joe very powerful"
